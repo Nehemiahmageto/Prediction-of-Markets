@@ -30,4 +30,3 @@ I used GARCH model to test train my model and check for the volatility of the st
 ##### Results
 - We had an RMSE score of 2 which shows that prediction model can be depended on.
 + We can see that at the end our volatility prediction range around 2% which is encouraging for investors and positive news.
-+ 
